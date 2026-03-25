@@ -46,7 +46,7 @@ This lab covers several foundational networking concepts:
 ## Test Results:
 
 ### Server Listening and Receiving Data
-![The server terminal showing it is bound to the port and receiving messages from the client](B23ES1027_q1.py/screenshots/Screenshot from 2026-03-25 21-48-40.png)
+![The server terminal showing it is bound to the port and receiving messages from the client](B23ES1027_q1.py/screenshots/server1.png)
 
 ### Client Sending Data
-![The client terminal showing the connection established and the user sending a message](B23ES1027_q1.pyscreenshots/Screenshot from 2026-03-25 21-48-47.png)
+![The client terminal showing the connection established and the user sending a message](B23ES1027_q1.py/screenshots/client1.png)
